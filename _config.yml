@@ -1,6 +1,3 @@
-remote_theme: pages-themes/minima@v2.5.1
-plugins:
-  - jekyll-remote-theme
-
 title: "Corporate Operational Advisory Center"
 description: "Official notifications regarding scheduled maintenance and infrastructure updates."
+theme: jekyll-theme-primer
